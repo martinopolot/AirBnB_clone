@@ -1,4 +1,6 @@
 # 0x00. AirBnB clone - The console
+https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230206T201216Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=003d10a3e956caad0eb42f33ba4c902a3b9c2c4953bb3a087e7e2e6089b82c13![image](https://user-images.githubusercontent.com/39852863/217343015-4bdb34c6-ee76-400b-aa06-1dbb6736d745.png)
+
 
 ### Concepts
 *For this project, we expect you to look at these concepts:*
