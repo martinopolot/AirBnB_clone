@@ -269,9 +269,6 @@ Now it’s time to re-create an instance with this dictionary representation.
 Update models/base_model.py:
     * __init__(self, *args, **kwargs):
 
-# Authors
-- Martin Opolot @martinopolothttps://github.com/martinopolot/
-- Enock Loyo https://github.c- https://git.com/Loyoenock/
         * you will use *args, **kwargs arguments for the constructor of a BaseModel. (more information inside the AirBnB clone concept page)
         * *args won’t be used
         * if kwargs is not empty
@@ -659,3 +656,7 @@ Update your command interpreter (console.py) to allow those actions: show, creat
 Enjoy your first console!
 
 **No unittests needed for the console**
+
+# Authors
+- Martin Opolot
+- Enock Loyo
