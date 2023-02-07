@@ -16,7 +16,7 @@
 
 Before starting, please read the **AirBnB** concept page.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://pixabay.com/photos/airbnb-air-bnb-apartment-3399753/)](https://youtu.be/XRH_8w1DEGI)
 
 # **First step: Write a command interpreter to manage your AirBnB objects.**
 
