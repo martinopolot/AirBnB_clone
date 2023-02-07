@@ -16,7 +16,7 @@
 
 Before starting, please read the **AirBnB** concept page.
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/XRH_8w1DEGI "Now in Android: 55")
+[<img src="" width="50%">](https://youtu.be/XRH_8w1DEGI "Now in Android: 55")
 
 # **First step: Write a command interpreter to manage your AirBnB objects.**
 
