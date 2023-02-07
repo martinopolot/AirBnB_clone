@@ -16,7 +16,7 @@
 
 Before starting, please read the **AirBnB** concept page.
 
-[<img src="https://a0.muscache.com/im/pictures/436adb1b-5ea5-4224-8e40-80d18134aeca.jpg?im_w=720" width="50%">](https://youtu.be/XRH_8w1DEGI "Now in Android: 55")
+[<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/fe2e3e7701dec72ce612472dab9bb55fe0e9f6d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230207T203045Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=526c4b8cd119995771337c5867a9f2b26f36e3a810dd97eccbe12c2f7dec2fc3" width="50%">](https://youtu.be/XRH_8w1DEGI "Now in Android: 55")
 
 # **First step: Write a command interpreter to manage your AirBnB objects.**
 
