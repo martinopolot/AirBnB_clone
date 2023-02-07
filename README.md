@@ -3,8 +3,8 @@
 ### Concepts
 *For this project, we expect you to look at these concepts:*
 
-    * Python packages
-    * AirBnB clone
+    - https://intranet.alxswe.com/concepts/66
+    - https://intranet.alxswe.com/concepts/74
 
 ![hbnb](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230206T151323Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cc96b1487369a88ae4b2febeadaea57372e090dc89d040d859ab1b1b5f323491)
 
