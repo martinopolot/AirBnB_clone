@@ -23,10 +23,10 @@ class TestUser_instantiation(unittest.TestCase):
     def setUpClass(cls):
         """Setup the unittest"""
         cls.user = User()
-        cls.user.email = "me@example.com"
-        cls.user.password = "123i123"
-        cls.user.first_name = "John"
-        cls.user.last_name = "Swag"
+        cls.user.email = "martin@example.com"
+        cls.user.password = "al234x"
+        cls.user.first_name = "martin"
+        cls.user.last_name = "opolot"
 
     def test_for_instantiation(self):
         """Tests instantiation of User class."""
