@@ -1,6 +1,6 @@
 # 0x01. AirBnB clone - Web static
 
-# Placeholder Readme
+# What to do!
 
 To do:
 
